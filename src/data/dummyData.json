@@ -1,0 +1,59 @@
+[
+    {
+      "title": "Starboy",
+      "thumbnail": "https://lh3.googleusercontent.com/dcxXIIlest09vnvKznWM9VWQXu1EL7lKxBzXGzwgmVjmMNBm1dEWT_0qn1xrEZYyKF_qRE1TLq8P_JY_mQ=w544-h544-l90-rj",
+      "musicUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "duration": "4:16",
+      "artistName": "The Weeknd"
+    },
+    {
+      "title": "Demons",
+      "thumbnail": "https://i1.sndcdn.com/artworks-XuTy5ksJwvcB-0-t500x500.jpg",
+      "musicUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "duration": "5:24",
+      "artistName": "Imagine Dragons"
+    },
+    {
+      "title": "Mouth of the River",
+      "thumbnail": "https://i.ytimg.com/vi/YiZCzG4RF1M/maxresdefault.jpg",
+      "musicUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "duration": "6:23",
+      "artistName": "Imagine Dragons"
+    },
+    {
+      "title": "Ghost Stories",
+      "thumbnail": "https://w0.peakpx.com/wallpaper/95/930/HD-wallpaper-coldplay-ghost-stories-coldplay-music-thumbnail.jpg",
+      "musicUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "duration": "3:10",
+      "artistName": "Coldplay"
+    },
+    {
+      "title": "Sparks",
+      "thumbnail": "https://ih1.redbubble.net/image.2801944080.4046/fposter,small,wall_texture,product,750x1000.jpg",
+      "musicUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "duration": "4:23",
+      "artistName": "Coldplay"
+    },
+    {
+      "title": "Viva La Vida",
+      "thumbnail": "https://i.ytimg.com/vi/zOQ4ld6NsXE/maxresdefault.jpg",
+      "musicUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+      "duration": "5:32",
+      "artistName": "Coldplay"
+    },
+    {
+      "title": "Hymn for the Weekend",
+      "thumbnail": "https://lastfm.freetls.fastly.net/i/u/ar0/48c1f186bdb8690ef1b481cfaf02d183.jpg",
+      "musicUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      "duration": "2:23",
+      "artistName": "Coldplay"
+    },
+    {
+      "title": "Pain",
+      "thumbnail": "https://i.ytimg.com/vi/W_NvW0wSh6U/maxresdefault.jpg",
+      "musicUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+      "duration": "3:12",
+      "artistName": "Ryan Jones"
+    }
+  ]
+  
